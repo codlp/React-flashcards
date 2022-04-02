@@ -1,3 +1,7 @@
+# Purpose
+
+The purpose of this project is to learn about React: useEffect, useState, useRef, API calls
+
 # Features
 
 - API calls to Open Trivia Database https://opentdb.com/
